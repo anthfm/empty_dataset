@@ -1,1 +1,1 @@
-3bf116af-8108-47a2-b258-85d03fbe1af1 autoenable=true bucket=s3.z-3bf116af-8108-47a2-b258-85d03fbe1af1 datacenter=US encryption=none host=127.0.0.1 name=s3.z port=9001 public=yes requeststyle=path storageclass=STANDARD type=S3 timestamp=1628714448.058339s
+3bf116af-8108-47a2-b258-85d03fbe1af1 autoenable=true bucket=s3.z-3bf116af-8108-47a2-b258-85d03fbe1af1 datacenter=US encryption=none host=127.0.0.1 name=s3.z port=9001 public=yes publicurl=http://127.0.0.1:9001 requeststyle=path storageclass=STANDARD type=S3 timestamp=1628714509.990109s
